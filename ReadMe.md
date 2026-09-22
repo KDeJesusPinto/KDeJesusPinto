@@ -14,6 +14,7 @@ I am passionate motorsports and wish to combine it with data science and make it
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-003545?style=for-the-badge&logo=flask&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
@@ -33,10 +34,14 @@ I am passionate motorsports and wish to combine it with data science and make it
 ![Linux](https://img.shields.io/badge/linux-%23121011.svg?style=for-the-badge&logo=linux&logoColor=white) 
 
 # 🏁​ My Projects:
+A website to manage internships and oral presentations for 2nd- and 3rd-year students [here](https://github.com/KDeJesusPinto/SAE-3.01c-Projet-FI)
 
-Visit my last project [here](chadrackilanga.com)
+📖​ A Java and JavaFX application for managing a bookstore's inventory [here](https://github.com/MaelyssF/SAE-Java---Livre-Express)
 
-# 🌍​ Languages
+🐍​ A little snake-inspired game [here](https://github.com/JorisVachey/SerpIUTO)
+<!-- Visit my last project [here](chadrackilanga.com) -->
+
+# 🌍​ Languages I speak
 
 I am fluent in both french and portuguese and I also speak english. Thanks to my portuguese I understand spanish at a good level and I also studied german in middle and highschool.
 
